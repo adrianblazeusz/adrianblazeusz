@@ -6,7 +6,7 @@
 
 <h2>📜 Certyfications</h2>
 
-- [CS50's Introduction to Programming with Python](LINK)
+- [CS50's Introduction to Programming with Python](https://user-images.githubusercontent.com/117313800/218189354-660ca3d8-28ae-423b-828f-bc16366515cd.png)
 - [Python for Data Science and Machine Learning Bootcamp](LINK)
 - [Machine Learning Bootcamp w języku Python cz.I](LINK)
 - [Machine Learning Bootcamp w języku Python cz.II](LINK)
