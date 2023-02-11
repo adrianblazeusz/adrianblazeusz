@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Scient Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/LINK)
+  - [NLP text classyfication](https://github.com/LINK)
 
 <h2>📜 Certyfications</h2>
 
