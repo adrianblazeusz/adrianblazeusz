@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Scient Projects:</h2>
 
-  - [NLP text classyfication](https://github.com/LINK)
+  - [NLP text classyfication](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Mental_health_text_detection.ipynb)
 
 <h2>📜 Certyfications</h2>
 
