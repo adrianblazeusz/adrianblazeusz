@@ -3,6 +3,7 @@
 <h2>👨‍💻 Data Scient Projects:</h2>
 
   - [NLP text classyfication](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Mental_health_text_detection.ipynb)
+  - [Prediction price of used mobile phone](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Used_Mobile_Phone_Price_Prediction.ipynb)
 
 <h2>📜 Certyfications</h2>
 
