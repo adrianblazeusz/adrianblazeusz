@@ -14,7 +14,7 @@
 - [Machine Learning Bootcamp w języku Python cz.I](https://user-images.githubusercontent.com/117313800/218189831-cb6c3bf1-23cd-4bec-9176-bfebea051ebc.jpg)
 - [Machine Learning Bootcamp w języku Python cz.II](https://user-images.githubusercontent.com/117313800/218189965-cd5dcf1d-5256-41cb-8226-f0ec28645660.jpg)
 - [Data Collection and Processing with Python](https://user-images.githubusercontent.com/117313800/218190788-7fcc00ab-8d36-4e58-bc9a-19e9c86ea2e9.png)
-- [Optimizing Machine Learning Models in Python](https://user-images.githubusercontent.com/117313800/218190788-7fcc00ab-8d36-4e58-bc9a-19e9c86ea2e9.png)
+- [Optimizing Machine Learning Models in Python](https://user-images.githubusercontent.com/117313800/222764316-7df00fb1-54b2-45d5-9c93-87239c4fbce0.png)
 
 <h2> 🤳 Connect with me:</h2>
 📧 E-Mail: adrian.blazeusz@gmail.com
