@@ -7,7 +7,7 @@
   - [Dog breed classification](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Classification_of_dog_breeds%20.ipynb)
   - [Recomendation film](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Recomendation.ipynb)
   - [Prediction of debt repayment](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Anticipation_of_debt_repayment.ipynb)
-  - []()
+  - [Negativ text detection](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Mental_health_text_detection.ipynb)
 
 <h2>📜 Certyfications</h2>
 
