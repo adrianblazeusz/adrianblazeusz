@@ -5,8 +5,9 @@
   - [Employee Future Prediction](https://github.com/adrianblazeusz/Machine-learning/tree/main/MY%20PROJECTS/Employee%20Future)
   - [Used Phone price prediction](https://github.com/adrianblazeusz/Machine-learning/tree/main/MY%20PROJECTS/Used_Mobile_Phone_Price_Prediction)
   - [Dog breed classification](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Classification_of_dog_breeds%20.ipynb)
-  - [Recomendation film](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Mental_health_text_detection.ipynb)
+  - [Recomendation film](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Recomendation.ipynb)
   - [Prediction of debt repayment](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Anticipation_of_debt_repayment.ipynb)
+  - []()
 
 <h2>📜 Certyfications</h2>
 
