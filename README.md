@@ -23,7 +23,7 @@
 
 <h2>Articles:</h2>
 
-  - [Python Dashboard for 15,963 Data Analyst job listings](https://mljar.com/blog/python-dashboard-data-analyst)
+  - [Python Dashboard for 15,963 Data Analyst job listings](https://github.com/adrianblazeusz/Additions-to-the-articles/tree/main/data-analyst-job)
   
 <h2> 🤳 Connect with me:</h2>
 📧 E-Mail: adrian.blazeusz@gmail.com
