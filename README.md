@@ -10,7 +10,7 @@
   - [Prediction of debt repayment](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Anticipation_of_debt_repayment.ipynb)
   - [Negativ text detection](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Mental_health_text_detection.ipynb)
 
-<h2>📜 Certyfications</h2>
+<h2>📜 Certyfications:</h2>
 
 - CSCS50’s Introduction to Computer Science (In process...)
 - [CS50's Introduction to Programming with Python](https://user-images.githubusercontent.com/117313800/218189354-660ca3d8-28ae-423b-828f-bc16366515cd.png)
@@ -22,8 +22,8 @@
 - [Data Cleaning and Analysis in Python](https://user-images.githubusercontent.com/117313800/227517694-c81af656-755a-4860-b214-60ef0fca6b63.png)
 - [Scientific Computing with Python](https://user-images.githubusercontent.com/117313800/239759845-8690572f-101b-4d42-a126-d1aa62a3ca5c.png)
 
-<h2> Articles</h2>
-  - [Python Dashboard for 15,963 Data Analyst job listings](https://mljar.com/blog/python-dashboard-data-analyst/)
+<h2> Articles:</h2>
+  - [Python Dashboard for 15,963 Data Analyst job listings](https://mljar.com/blog/python-dashboard-data-analyst)
   
 <h2> 🤳 Connect with me:</h2>
 📧 E-Mail: adrian.blazeusz@gmail.com
