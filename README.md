@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Data Scient Projects:</h2>
 
+  - [Data Analyst job listings EDA]()
   - [Employee Future Prediction](https://github.com/adrianblazeusz/Machine-learning/tree/main/MY%20PROJECTS/Employee%20Future)
   - [Used Phone price prediction](https://github.com/adrianblazeusz/Machine-learning/tree/main/MY%20PROJECTS/Used_Mobile_Phone_Price_Prediction)
   - [Dog breed classification](https://github.com/adrianblazeusz/Machine-learning/blob/main/MY%20PROJECTS/Classification_of_dog_breeds%20.ipynb)
@@ -19,6 +20,10 @@
 - [Data Collection and Processing with Python](https://user-images.githubusercontent.com/117313800/218190788-7fcc00ab-8d36-4e58-bc9a-19e9c86ea2e9.png)
 - [Optimizing Machine Learning Models in Python](https://user-images.githubusercontent.com/117313800/222764316-7df00fb1-54b2-45d5-9c93-87239c4fbce0.png)
 - [Data Cleaning and Analysis in Python](https://user-images.githubusercontent.com/117313800/227517694-c81af656-755a-4860-b214-60ef0fca6b63.png)
+- [Scientific Computing with Python](https://user-images.githubusercontent.com/117313800/239759845-8690572f-101b-4d42-a126-d1aa62a3ca5c.png)
+
+<h2> Articles
+  -[Python Dashboard for 15,963 Data Analyst job listings]()
 <h2> 🤳 Connect with me:</h2>
 📧 E-Mail: adrian.blazeusz@gmail.com
 
