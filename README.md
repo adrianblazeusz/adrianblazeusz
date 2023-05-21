@@ -23,7 +23,7 @@
 - [Scientific Computing with Python](https://user-images.githubusercontent.com/117313800/239759845-8690572f-101b-4d42-a126-d1aa62a3ca5c.png)
 
 <h2> Articles
-  -[Python Dashboard for 15,963 Data Analyst job listings]()
+  - [Python Dashboard for 15,963 Data Analyst job listings](https://mljar.com/blog/python-dashboard-data-analyst/)
 <h2> 🤳 Connect with me:</h2>
 📧 E-Mail: adrian.blazeusz@gmail.com
 
