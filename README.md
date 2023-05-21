@@ -22,7 +22,8 @@
 - [Data Cleaning and Analysis in Python](https://user-images.githubusercontent.com/117313800/227517694-c81af656-755a-4860-b214-60ef0fca6b63.png)
 - [Scientific Computing with Python](https://user-images.githubusercontent.com/117313800/239759845-8690572f-101b-4d42-a126-d1aa62a3ca5c.png)
 
-<h2> Articles:</h2>
+<h2>Articles:</h2>
+
   - [Python Dashboard for 15,963 Data Analyst job listings](https://mljar.com/blog/python-dashboard-data-analyst)
   
 <h2> 🤳 Connect with me:</h2>
