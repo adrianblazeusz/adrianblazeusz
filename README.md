@@ -1,5 +1,9 @@
 <h1>Hi, I'm Adrian! <br/></h1>
 
+<h2>Articles:</h2>
+
+  - [Python Dashboard for 15,963 Data Analyst job listings](https://github.com/adrianblazeusz/Additions-to-the-articles/tree/main/data-analyst-job)
+ 
 <h2>👨‍💻 Data Scient Projects:</h2>
 
   - [Data Analyst job listings EDA](https://github.com/adrianblazeusz/Additions-to-the-articles/blob/main/data-analyst-job/data-analyst.ipynb)
@@ -20,11 +24,7 @@
 - [Optimizing Machine Learning Models in Python](https://user-images.githubusercontent.com/117313800/222764316-7df00fb1-54b2-45d5-9c93-87239c4fbce0.png)
 - [Data Cleaning and Analysis in Python](https://user-images.githubusercontent.com/117313800/227517694-c81af656-755a-4860-b214-60ef0fca6b63.png)
 - [Scientific Computing with Python](https://user-images.githubusercontent.com/117313800/239759845-8690572f-101b-4d42-a126-d1aa62a3ca5c.png)
-
-<h2>Articles:</h2>
-
-  - [Python Dashboard for 15,963 Data Analyst job listings](https://github.com/adrianblazeusz/Additions-to-the-articles/tree/main/data-analyst-job)
-  
+ 
 <h2> 🤳 Connect with me:</h2>
 📧 E-Mail: adrian.blazeusz@gmail.com
 
