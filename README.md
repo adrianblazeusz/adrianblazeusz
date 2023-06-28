@@ -1,8 +1,14 @@
 <h1>Hi, I'm Adrian! <br/></h1>
 
-<h2>Articles:</h2>
+<h2>📖 Articles:</h2>
 
   - [Python Dashboard for 15,963 Data Analyst job listings](https://github.com/adrianblazeusz/Additions-to-the-articles/tree/main/data-analyst-job)
+
+<h2>🚀 Python OOP Projects:</h2>
+
+  - [Flatmates-Bill-Web-App](https://github.com/adrianblazeusz/OOP-Aplications/tree/main/App-5-Flatmates-Bill-Web-App)
+  - [Automated-Emails-Bot](https://github.com/adrianblazeusz/OOP-Aplications/tree/main/App-7-Automated-Emails)
+  - [Instant-Dictionary-API](https://github.com/adrianblazeusz/OOP-Aplications/tree/main/App-9-Instant-Dictionary-API)
  
 <h2>👨‍💻 Data Scient Projects:</h2>
 
@@ -27,6 +33,7 @@
  
 <h2> 🤳 Connect with me:</h2>
 📧 E-Mail: adrian.blazeusz@gmail.com
+📘 Linkedin: linkedin.com/in/adrian-błazeusz-411a03272/
 
 
 <!--
