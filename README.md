@@ -5,10 +5,11 @@
   - [Python Dashboard for 15,963 Data Analyst job listings](https://github.com/adrianblazeusz/Additions-to-the-articles/tree/main/data-analyst-job)
 
 <h2>🚀 Python OOP Projects:</h2>
-
-  - [Flatmates-Bill-Web-App](https://github.com/adrianblazeusz/OOP-Aplications/tree/main/App-5-Flatmates-Bill-Web-App)
+  
+  - [ProductiBee](https://github.com/adrianblazeusz/ProductiBee)
   - [Automated-Emails-Bot](https://github.com/adrianblazeusz/OOP-Aplications/tree/main/App-7-Automated-Emails)
   - [Instant-Dictionary-API](https://github.com/adrianblazeusz/OOP-Aplications/tree/main/App-9-Instant-Dictionary-API)
+  - [Flatmates-Bill-Web-App](https://github.com/adrianblazeusz/OOP-Aplications/tree/main/App-5-Flatmates-Bill-Web-App)
  
 <h2>👨‍💻 Data Scient Projects:</h2>
 
