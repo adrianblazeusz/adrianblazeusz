@@ -34,7 +34,6 @@
  
 <h2> 🤳 Connect with me:</h2>
 📧 E-Mail: adrian.blazeusz@gmail.com
-📘 Linkedin: linkedin.com/in/adrian-błazeusz-411a03272/
 
 
 <!--
